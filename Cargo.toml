@@ -1,5 +1,5 @@
 [package]
-name = "token_hash"
+name = "auth_token_hash"
 version = "0.1.0"
 edition = "2021"
 
